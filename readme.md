@@ -26,7 +26,7 @@ Empleado:
 
 - nombre: Mesi
 - apellidos: Chiquito
-- dirección:
+- direccion:
   - calle: Uria 28
   - ciudad: Oviedo
 - departamentos:
@@ -76,4 +76,4 @@ darle a la última celda la clase `azul`
 
 ## Entrega
 
-Hacer commit, sincronizar los cambios y aceptar la creación de la bifurcación (fork)
+Hacer commit con el mensaje `Entrega`, sincronizar los cambios y aceptar la creación de la bifurcación (fork)
