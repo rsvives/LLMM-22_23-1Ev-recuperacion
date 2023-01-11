@@ -55,9 +55,9 @@ Formulario de contacto para recopilar los siguientes datos:
 - email
 - contraseña
 - tipo de cliente:
-- empresa
-- particular
-- estudiante
+  - empresa
+  - particular
+  - estudiante
 
 **- tabla.html(1,5pt)**
 Realizar la tabla reflejada en la siguiente imagen.
